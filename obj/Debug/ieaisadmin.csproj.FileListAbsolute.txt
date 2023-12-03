@@ -1,0 +1,100 @@
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\ieaisadmin.exe.config
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\ieaisadmin.exe
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\ieaisadmin.pdb
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\Npgsql.dll
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\System.Buffers.dll
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\System.Collections.Immutable.dll
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\System.Memory.dll
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\System.Text.Json.dll
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\System.Threading.Channels.dll
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\System.ValueTuple.dll
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\Npgsql.xml
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\System.Buffers.xml
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\System.Collections.Immutable.xml
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\System.Memory.xml
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\System.Text.Json.xml
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\System.Threading.Channels.xml
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\serge\source\repos\ieaisadmin\bin\Debug\System.ValueTuple.xml
+C:\Users\serge\source\repos\ieaisadmin\obj\Debug\ieaisadmin.csproj.AssemblyReference.cache
+C:\Users\serge\source\repos\ieaisadmin\obj\Debug\MainWindow.g.cs
+C:\Users\serge\source\repos\ieaisadmin\obj\Debug\App.g.cs
+C:\Users\serge\source\repos\ieaisadmin\obj\Debug\ieaisadmin_MarkupCompile.cache
+C:\Users\serge\source\repos\ieaisadmin\obj\Debug\ieaisadmin_MarkupCompile.lref
+C:\Users\serge\source\repos\ieaisadmin\obj\Debug\MainWindow.baml
+C:\Users\serge\source\repos\ieaisadmin\obj\Debug\ieaisadmin.g.resources
+C:\Users\serge\source\repos\ieaisadmin\obj\Debug\ieaisadmin.Properties.Resources.resources
+C:\Users\serge\source\repos\ieaisadmin\obj\Debug\ieaisadmin.csproj.GenerateResource.cache
+C:\Users\serge\source\repos\ieaisadmin\obj\Debug\ieaisadmin.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\ieaisadmin\obj\Debug\ieaisadmin.csproj.CopyComplete
+C:\Users\serge\source\repos\ieaisadmin\obj\Debug\ieaisadmin.exe
+C:\Users\serge\source\repos\ieaisadmin\obj\Debug\ieaisadmin.pdb
+C:\Users\serge\source\repos\ieaisadmin\obj\Debug\AdminWindow.g.cs
+C:\Users\serge\source\repos\ieaisadmin\obj\Debug\AdminWindow.baml
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\ieaisadmin.exe.config
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\ieaisadmin.exe
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\ieaisadmin.pdb
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\Npgsql.dll
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\System.Buffers.dll
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\System.Collections.Immutable.dll
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\System.Memory.dll
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\System.Text.Json.dll
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\System.Threading.Channels.dll
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\System.ValueTuple.dll
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\Npgsql.xml
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\System.Buffers.xml
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\System.Collections.Immutable.xml
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\System.Memory.xml
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\System.Text.Json.xml
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\System.Threading.Channels.xml
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\bin\Debug\System.ValueTuple.xml
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\obj\Debug\ieaisadmin.csproj.AssemblyReference.cache
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\obj\Debug\AdminWindow.g.cs
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\obj\Debug\MainWindow.g.cs
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\obj\Debug\App.g.cs
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\obj\Debug\ieaisadmin_MarkupCompile.cache
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\obj\Debug\ieaisadmin_MarkupCompile.lref
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\obj\Debug\AdminWindow.baml
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\obj\Debug\MainWindow.baml
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\obj\Debug\ieaisadmin.g.resources
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\obj\Debug\ieaisadmin.Properties.Resources.resources
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\obj\Debug\ieaisadmin.csproj.GenerateResource.cache
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\obj\Debug\ieaisadmin.csproj.CoreCompileInputs.cache
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\obj\Debug\ieaisadmin.csproj.CopyComplete
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\obj\Debug\ieaisadmin.exe
+C:\Users\serge\Documents\Курсовая работа 4 курс\Programs\ieaisadmin\obj\Debug\ieaisadmin.pdb

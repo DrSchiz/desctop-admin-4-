@@ -1,0 +1,166 @@
+﻿<Window x:Class="ieaisadmin.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ieaisadmin"
+        mc:Ignorable="d"
+        Title="Панель администратора" Height="450" Width="800">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Клиенты">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="3*"></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.2*"></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition Height="0.2*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <DataGrid x:Name="dataGridClients" 
+                              Loaded="dataGridClients_Loaded"
+                              AutoGenerateColumns="False"
+                              IsReadOnly="True"
+                              Grid.Column="0"
+                              Grid.Row="0"
+                              Grid.RowSpan="3" SelectionChanged="dataGridClients_SelectionChanged">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Логин" Binding="{Binding client_login}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="Фамилия" Binding="{Binding client_firstname}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="Имя" Binding="{Binding client_name}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="Отчество" Binding="{Binding client_patronymic}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="Телефон" Binding="{Binding client_phone_number}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="Почта" Binding="{Binding client_email}"></DataGridTextColumn>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Button x:Name="buttonDeleteClient"
+                            Content="Удалить"
+                            Grid.Column="1"
+                            FontSize="25"
+                            Background="#EB4C42"
+                            IsEnabled="False" Click="buttonDeleteClient_Click"></Button>
+                    <Button x:Name="buttonExcel"
+                            Content=".CSV"
+                            Grid.Column="1"
+                            Grid.Row="2"
+                            FontSize="25"
+                            Background="Bisque" Click="buttonExcel_Click"></Button>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Сотрудники">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="3*"></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.2*"></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition Height="0.2*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <DataGrid x:Name="dataGridEmployee" 
+                              Loaded="dataGridEmployee_Loaded"
+                              AutoGenerateColumns="False"
+                              IsReadOnly="True"
+                              Grid.Column="0"
+                              Grid.Row="0"
+                              Grid.RowSpan="3" SelectionChanged="dataGridEmployee_SelectionChanged">         
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Логин" Binding="{Binding employee_login}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="Роль" Binding="{Binding role_name}"></DataGridTextColumn>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Button x:Name="buttonDeleteEmployee"
+                            Content="Удалить"
+                            Grid.Column="1"
+                            FontSize="25"
+                            Background="#EB4C42"
+                            IsEnabled="False" Click="buttonDeleteEmployee_Click"></Button>
+                    <Button x:Name="buttonExcelEmployee"
+                            Content=".CSV"
+                            Grid.Column="1"
+                            Grid.Row="2"
+                            FontSize="25"
+                            Background="Bisque" Click="buttonExcelEmployee_Click"></Button>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Контракты">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0.5*"></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="4*"></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <DataGrid x:Name="dataGridContracts"
+                               AutoGenerateColumns="False"
+                               IsReadOnly="True"
+                               Grid.Column="0"
+                               Grid.Row="0"
+                               Grid.ColumnSpan="2" Loaded="dataGridContracts_Loaded" SelectionChanged="dataGridContracts_SelectionChanged">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Номер" Binding="{Binding contract_number}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="ИНН" Binding="{Binding employee_itn}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="Адрес" Binding="{Binding employee_adress}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="Телефон" Binding="{Binding employee_phone_number}"></DataGridTextColumn>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <TextBlock Text="Контракт:"
+                               Grid.Row="1"
+                               FontSize="25"
+                               VerticalAlignment="Center"
+                               HorizontalAlignment="Center"></TextBlock> 
+                    <TextBlock Text="Логин:"
+                               Grid.Row="2"
+                               FontSize="25"
+                               VerticalAlignment="Center"
+                               HorizontalAlignment="Center"></TextBlock>
+                    <TextBlock Text="Пароль:"
+                               Grid.Row="3"
+                               FontSize="25"
+                               VerticalAlignment="Center"
+                               HorizontalAlignment="Center"></TextBlock>
+                    <TextBlock Text="Роль:"
+                               Grid.Row="4"
+                               FontSize="25"
+                               VerticalAlignment="Center"
+                               HorizontalAlignment="Center"></TextBlock>
+                    <TextBlock x:Name="textBlockContractNum"
+                               Grid.Column="1"
+                               Grid.Row="1"
+                               FontSize="25"
+                               VerticalAlignment="Center"></TextBlock>
+                    <TextBox x:Name="textBoxLogin"
+                             VerticalContentAlignment="Center"
+                             Grid.Column="1"
+                             Grid.Row="2"
+                             FontSize="25"></TextBox>
+                    <PasswordBox x:Name="passwordBoxPassword"
+                                 VerticalContentAlignment="Center"
+                                 Grid.Column="1"
+                                 Grid.Row="3"
+                                 FontSize="25"></PasswordBox>
+                    <ComboBox x:Name="comboBoxRole"
+                              Grid.Column="1"
+                              Grid.Row="4" Loaded="comboBoxRole_Loaded"></ComboBox>
+                    <Button x:Name="buttonAddEmployee"
+                            Content="Добавить"
+                            Grid.Row="5"
+                            FontSize="25"
+                            Background="DarkSeaGreen"
+                            Grid.ColumnSpan="2"
+                            Width="265"
+                            HorizontalAlignment="Center" Click="buttonAddEmployee_Click"></Button>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
